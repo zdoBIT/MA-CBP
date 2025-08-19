@@ -7,7 +7,7 @@
 Official repositories for "MA-CBP: A Criminal Behavior Prediction Framework Based on Multi-Agent Asynchronous Collaboration".
 
 ## 📰 News
-* `2025/08/8` 🔥 Our paper is available on [Arxiv](https://arxiv.org/abs/2508.06189)!
+* `2025/08/08` 🔥 Our paper is available on [Arxiv](https://arxiv.org/abs/2508.06189)!
 * `2025/08/13` 🔥 Our datasets are available on [🤗Huggingface](https://hf-mirror.com/datasets/ltxBIT/MA_CBP_dataset/tree/main)!
 
 
