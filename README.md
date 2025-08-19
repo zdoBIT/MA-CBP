@@ -23,3 +23,17 @@ Official repositories for "MA-CBP: A Criminal Behavior Prediction Framework Base
 * The original videos were selected from the UCF-Crime, CamNuvem datasets and YouTubeClips-80K.
 * In order to construct a dataset for different agents, we designed corresponding prompts based on their specific tasks, including image description, summary, and event description.
 ![](./images/dataset.png)
+
+## Citation
+If you find this code useful for your research, please cite our paper.
+
+```tex
+@misc{liu2025macbpcriminalbehaviorprediction,
+      title={MA-CBP: A Criminal Behavior Prediction Framework Based on Multi-Agent Asynchronous Collaboration}, 
+      author={Cheng Liu and Daou Zhang and Tingxu Liu and Yuhan Wang and Jinyang Chen and Yuexuan Li and Xinying Xiao and Chenbo Xin and Ziru Wang and Weichao Wu},
+      year={2025},
+      eprint={2508.06189},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.06189}, 
+}
