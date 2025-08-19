@@ -7,8 +7,8 @@
 Official repositories for "MA-CBP: A Criminal Behavior Prediction Framework Based on Multi-Agent Asynchronous Collaboration".
 
 ## 📰 News
-* `2025/06/15` 🔥 Our datasets are available on [🤗Huggingface](https://hf-mirror.com/datasets/ltxBIT/MA_CBP_dataset/tree/main)!
-* `2025/05/27` 🔥 Our paper is available on [Arxiv](https://arxiv.org/abs/2508.06189)!
+* `2025/08/8` 🔥 Our paper is available on [Arxiv](https://arxiv.org/abs/2508.06189)!
+* `2025/08/13` 🔥 Our datasets are available on [🤗Huggingface](https://hf-mirror.com/datasets/ltxBIT/MA_CBP_dataset/tree/main)!
 
 
 ## ✨Highlights
@@ -18,3 +18,8 @@ Official repositories for "MA-CBP: A Criminal Behavior Prediction Framework Base
 ![](./images/workflow.png)
 * We have constructed a high-quality criminal behavior dataset that covers four categories of abnormal events and includes fine-grained natural language annotations, providing strong data support for research on criminal behavior prediction.
 
+## 📊 Data instruction
+* Our dataset is available on [🤗Huggingface](https://hf-mirror.com/datasets/ltxBIT/MA_CBP_dataset/tree/main).
+* The original videos were selected from the UCF-Crime, CamNuvem datasets and YouTubeClips-80K.
+* In order to construct a dataset for different agents, we designed corresponding prompts based on their specific tasks, including image description, summary, and event description.
+![](./images/dataset.png)
